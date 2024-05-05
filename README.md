@@ -1,4 +1,4 @@
 # reinforcement-learning-awesome-varieties
-- 強化学習の基本的な様々な方法を、いくつかのデータセットで試す
-- PTAN, RAY といった新しいフレームワーク、分散学習も試してみた
-- とにかくやっていて面白い
+- I have tried reinforcement learning basic approach to some environment set.
+- Also I tried PTAN, RAY a bit.
+- Codes and scripts are referring to multiple textbooks, but with some original arrangements.

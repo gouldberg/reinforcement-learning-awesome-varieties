@@ -1,4 +1,51 @@
 # reinforcement-learning-awesome-varieties
-- I have tried reinforcement learning basic approach to some environment set.
+- I have tried reinforcement learning basic approach to some environment sets.
 - Also I tried PTAN, RAY a bit.
 - Codes and scripts are referring to multiple textbooks, but with some original arrangements.
+- Some codes includes playing learned model.
+
+## Approaches and Enviroments covered are: (just example)
+- **Actor-Critic**, replay buffer
+  - cartpole-v0 (gym)
+- **A2C** (Advantage Actor-Critic)
+  - Catcher-v0
+  - HalfCheetahBulletEnv-v0
+  - MinitaurBulletEnv-v0
+  - PongNoFrameskip-v4
+- **A3C** (Asynchronous Advantage Actor-Critic)
+  - PongNoFrameskip-v4
+- **ACKTR** (Actor-Critic using Kronecker-Factored Trust Region)
+  - HalfCheetahBulletEnv-v0
+- **simple neural net** (value function agent, policy gradient agent)
+  - cartpole-v0
+- **D4PG** (Distributed Distributional Deterministic Policy Gradients)
+  - ant
+  - HalfCheetahBulletEnv-v0
+  - MinitaurBulletEnv-v0
+- **Dagger**
+  - FrozenLakeEasy-v0 (gym)
+- **DDPG** (Deep Deterministic Policy Gradients)
+  - MinitaurBulletEnv-v0
+- **Deep-Q**
+  - catcher
+- **Distributional DQN**
+  - PongNoFrameskip-v4
+- **Dueling DQN**
+  - PongNoFrameskip-v4
+- **Evolution**
+  - Catcher-v0
+- **GAN**
+  - Atari
+- **Noisy Networks**
+  - PongNoFrameskip-v4
+- **PPO** (Proximal Policy Optimization)
+  - cartpole-v0
+  - HalfCheetahBulletEnv-v0
+- **Priority Replay Buffer**
+  - PongNoFrameskip-v4
+- **SAC** (Soft Actor-Critic)
+  - HalfCheetahBulletEnv-v0
+- **SARSA** (state-Action-Reward-State-Action)
+  - FrozenLakeEasy-v0
+- **TRPO** (Trust Region Policy Optimization)
+  - HalfCheetahBulletEnv-v0
